@@ -6,7 +6,7 @@ wget -T 10 -O - 'http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml'
 
 wget -T 10 -O - 'http://malwaredomains.lehigh.edu/files/justdomains' | grep -v '#' >| lists/lehigh-malware.txt
 
-wget -T 10 -O - 'http://www.malwaredomainlist.com/hostslist/hosts.txt' | sed "s/127.0.0.1  //" >| lists/malwaredomainlist.txt
+wget -T 10 -O - 'http://www.malwaredomainlist.com/hostslist/hosts.txt' | grep -v '#' | sed "s/127.0.0.1  //" >| lists/malwaredomainlist.txt
 
 wget -T 10 -O - 'https://isc.sans.edu/feeds/suspiciousdomains_High.txt' | grep -v '#' >| lists/isc.sans.edu.txt
 
