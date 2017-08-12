@@ -1,18 +1,3 @@
-#
-#   DShield.org Suspicious Domain List
-#    (c) 2017 DShield.org
-#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
-#   use on your own risk. No warranties implied.
-#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
-#
-#   comments: info@dshield.org
-#    updated: Sat Aug 12 04:05:44 2017 UTC
-#   
-#    This list consists of High Level Sensitivity website URLs
-#     Columns (tab delimited):
-#
-#      (1) site
-#
 Site
 a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at
 6g4ds.froekuge.com
@@ -277,13 +262,3 @@ qfjhpgbefuhenjp7.16g9ub.top
 oqwygprskqv65j72.13gpqd.top
 oqwygprskqv65j72.1hbdbx.top
 oqwygprskqv65j72.13rdvu.top
-#
-# STATISTICS
-#
-# Total In Database: 37981
-# Total In Report:   263
-# Percent of Total:  0.69 %
-#
-# END
-#
-#  finished list generation: Sat Aug 12 04:05:44 2017 UTC
