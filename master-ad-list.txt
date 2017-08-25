@@ -1938,7 +1938,6 @@ address=/ad.domainfactory.de/0.0.0.0
 address=/ad.donanimhaber.com/0.0.0.0
 address=/addonnet.com/0.0.0.0
 address=/ad.download.cnet.com/0.0.0.0
-address=/address=/adpublisher.s3.amazonaws.com/0.0.0.0/0.0.0.0
 address=/addresstolink.co.uk/0.0.0.0
 address=/address-update.en.us.www.purchaseapt.com/0.0.0.0
 address=/adds1.trafflow.com/0.0.0.0
@@ -2372,6 +2371,7 @@ address=/adprudence.rotator.hadj7.adjuggler.net/0.0.0.0
 address=/ad.prv.pl/0.0.0.0
 address=/ad.pt.doubleclick.net/0.0.0.0
 address=/adpublimo.com/0.0.0.0
+address=/adpublisher.s3.amazonaws.com/0.0.0.0
 address=/ad.punto-informatico.it/0.0.0.0
 address=/adq.nextag.com/0.0.0.0
 address=/adr.adplus.co.id/0.0.0.0

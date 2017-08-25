@@ -1,1 +1,1 @@
-address=/adpublisher.s3.amazonaws.com/0.0.0.0
+adpublisher.s3.amazonaws.com
