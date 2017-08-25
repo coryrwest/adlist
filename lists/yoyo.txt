@@ -167,7 +167,6 @@ adap.tv
 adapt.tv
 adbanner.ro
 adbard.net
-adbers.com
 adblade.com
 adblockanalytics.com
 adboost.de.vu
@@ -202,6 +201,7 @@ adecn.com
 ademails.com
 adengage.com
 adexchangeprediction.com
+adexcite.com
 adexpose.com
 adext.inkclub.com
 adf.ly
@@ -271,6 +271,7 @@ admeta.com
 admex.com
 adminder.com
 adminshop.com
+admitad.com
 admized.com
 admob.com
 admonitor.com
@@ -767,6 +768,7 @@ adsstat.com
 adstat.4u.pl
 adstest.weather.com
 adsupply.com
+adswizz.com
 adsymptotic.com
 adsynergy.com
 adsys.townnews.com
@@ -865,6 +867,7 @@ affiliates.ultrahosting.com
 affiliatetracking.com
 affiliatetracking.net
 affiliatewindow.com
+affiliation-france.com
 afftracking.justanswer.com
 ah-ha.com
 ahalogy.com
@@ -894,6 +897,7 @@ anm.intelli-direct.com
 annonser.dagbladet.no
 anxiousapples.com
 api.intensifier.de
+app.adblockhyper.us
 appsflyer.com
 apture.com
 arc1.msn.com
@@ -1270,7 +1274,6 @@ debtbusterloans.com
 decisiveducks.com
 decknetwork.net
 delightdriving.com
-deloo.de
 demandbase.com
 demdex.net
 di1.shopping.com
@@ -1386,7 +1389,6 @@ fc.webmasterpro.de
 feedbackresearch.com
 feedjit.com
 ffxcam.fairfax.com.au
-fimc.net
 fimserve.com
 findcommerce.com
 findyourcasino.com
@@ -1437,7 +1439,7 @@ geobanner.adultfriendfinder.com
 geovisite.com
 getclicky.com
 giddycoat.com
-gigya.com
+gigya.com.invalid
 globalismedia.com
 globaltakeoff.net
 globaltrack.com.invalid
@@ -1826,7 +1828,6 @@ owebmoney.ru
 oxado.com
 oxcash.com
 oxen.hillcountrytexas.com
-p.adpdx.com
 pagead.l.google.com
 pagefair.com
 pagerank-ranking.de
@@ -2173,7 +2174,6 @@ superficialsink.com
 superstats.com
 supertop.ru
 supertop100.com
-suptullog.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swissadsolutions.com
@@ -2205,11 +2205,11 @@ test.invalid
 text-link-ads.com
 textad.sexsearch.com
 textads.biz
-textads.opera.com
 textlinks.com
 tfag.de
 theadhost.com
 theads.me
+thebugs.ws
 thecounter.com
 therapistla.com
 therichkids.com
